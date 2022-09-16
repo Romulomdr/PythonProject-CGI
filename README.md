@@ -1,1 +1,1 @@
-# PythonProject1
+# PythonProject Computação Gráfica
